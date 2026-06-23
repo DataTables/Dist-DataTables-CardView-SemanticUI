@@ -1,0 +1,18 @@
+{
+    "js": [
+        "js/cardView.semanticui.js",
+        "js/cardView.semanticui.min.js",
+        "js/cardView.semanticui.min.mjs",
+        "js/cardView.semanticui.mjs"
+    ],
+    "css": [
+        "css/cardView.semanticui.css",
+        "css/cardView.semanticui.min.css"
+    ],
+    "types": [
+        "types/cardView.semanticui.d.ts"
+    ],
+    "src-repo": "http://github.com/DataTables/CardView",
+    "last-tag": "null",
+    "last-sync": ""
+}
