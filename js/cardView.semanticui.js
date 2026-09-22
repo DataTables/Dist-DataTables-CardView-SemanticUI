@@ -1,4 +1,4 @@
-/*! CardView Fomantic styling 1.0.3 for DataTables
+/*! CardView Fomantic styling 1.1.0 for DataTables
  * Copyright (c) SpryMedia Ltd - https://datatables.net/license/plus
  */
 
