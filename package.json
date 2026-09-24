@@ -36,9 +36,10 @@
     "exports": {
         ".": {
             "types": "./types/cardView.semanticui.d.ts",
+            "style": "./css/cardView.semanticui.css",
             "import": "./js/cardView.semanticui.mjs",
-            "default": "./js/cardView.semanticui.mjs",
-            "require": "./js/cardView.semanticui.js"
+            "require": "./js/cardView.semanticui.js",
+            "default": "./js/cardView.semanticui.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
